@@ -10,11 +10,5 @@ formulario.addEventListener('submit', function (e) {
     alert("Llenar campos")
   }
 
-  for (var i = 0; i < name.length; i++) {
-    // console.log(name[0].toUpperCase());
-  }
-  for (var i = 0; i < lastName.length; i++) {
-    // console.log(lastName[0].toUpperCase());
-  }
 
 })
